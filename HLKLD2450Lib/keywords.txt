@@ -1,0 +1,20 @@
+# Syntax:
+# <keyword>    <tab>    <type>
+
+HLKLD2450Lib    KEYWORD1
+begin           KEYWORD2
+loop            KEYWORD2
+registerCallback KEYWORD2
+isConnected     KEYWORD2
+connectToBLE    KEYWORD2
+notifyCallback  KEYWORD2
+processBuffer   KEYWORD2
+manageBuffer    KEYWORD2
+customSignedInt16 KEYWORD2
+
+# Types:
+# KEYWORD1  - Classes or libraries
+# KEYWORD2  - Functions and methods
+# KEYWORD3  - Constants (e.g., #define values)
+# LITERAL1  - Standard data types (e.g., byte, int)
+# LITERAL2  - Predefined variables, e.g., HIGH, LOW, INPUT
